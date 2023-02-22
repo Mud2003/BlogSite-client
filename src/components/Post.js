@@ -2,7 +2,7 @@ export default function Post() {
     return (
         <div className="post">
         <div className="image">
-        <img src="car.jpg" alt=""/>
+        
         </div>
         <div className="texts">
         <h2>Tesla battles with union organizers, Zoox hits </h2>
