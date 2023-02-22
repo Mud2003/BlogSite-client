@@ -2,7 +2,7 @@ export default function Post() {
     return (
         <div className="post">
         <div className="image">
-        <img src="https://techcrunch.com/wp-content/uploads/2023/02/Zoox-making-right-hand-turn-on-open-public-roads-in-Foster-City-California.jpg?w=990&crop=1" alt=""/>
+        <img src="car.jpg" alt=""/>
         </div>
         <div className="texts">
         <h2>Tesla battles with union organizers, Zoox hits </h2>
